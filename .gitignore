@@ -20,6 +20,4 @@ build
 # other
 eclipse
 run
-gradle/
-gradlew.bat
-gradlew
+
